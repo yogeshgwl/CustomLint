@@ -19,7 +19,7 @@ allprojects {
 ```
 **Step 2.** Add the dependency in app level build.gradle
 ```css
-    lintChecks 'com.github.monikachouhan-galaxyweblinks:customLint:v1.1'
+   lintChecks 'com.github.yogeshtatwalgwl:CustomLint:v1.0'
 ```
 **Step 3.** Add following in your app build.gradle 
 ```css
